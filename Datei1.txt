@@ -3,3 +3,4 @@ Hallo das ist ein Test
 hello
 send msg
 <msg> [] {}
+2
