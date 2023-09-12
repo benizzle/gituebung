@@ -1,2 +1,5 @@
 Hallo das ist ein Test
 2
+hello
+send msg
+<msg> [] {}
